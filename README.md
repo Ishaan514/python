@@ -3,5 +3,7 @@
 Git command cheat sheet:
 
 `git add .`
+
 `git commit -m "some commit comment"`
+
 `git push`
